@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hello, World! I'm [Your Name] 👋
+# Hello I'm Antonio 👋
 
-### 🚀 Software Engineer | 🧠 Aspiring AI Architect
+### 🚀 Software Engineer 
 **Current Status:** Interning at SAP Labs Bulgaria 🇧🇬
 
-*Buckle up and enjoy the ride!* 🎢✨
+I turn coffee into code and ideas into reality. Buckle up and enjoy the ride!* 🎢✨
 
 ---
 
@@ -36,8 +36,6 @@ I am a passionate Software Engineer building a strong foundation in systems and 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aGatovski&show_icons=true&theme=radical" height="180" alt="aGatovski's Github Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aGatovski&layout=compact&theme=radical" height="180" alt="aGatovski's Top Langs" />
+  <img src="https://github.com/aGatovski/aGatovski/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
