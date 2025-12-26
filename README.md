@@ -31,11 +31,3 @@ I am a passionate Software Engineer building a strong foundation in systems and 
 </div>
 
 ---
-
-### 📈 My GitHub Stats
-
-<div align="center">
-
-  <img src="https://github.com/aGatovski/aGatovski/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-
-</div>
