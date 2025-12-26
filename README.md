@@ -15,7 +15,7 @@ I turn coffee into code and ideas into reality. Buckle up and enjoy the ride!* �
 
 I am a passionate Software Engineer building a strong foundation in systems and enterprise software while setting my sights on the future of Artificial Intelligence. I believe in writing clean, efficient code and constantly pushing the boundaries of what's possible.
 
-* 🔭 **Currently working at:** SAP Labs Bulgaria (Intern)
+* 🔭 **Currently working at:** iXP Intern for SAP Globalisation E-Invoicing Localization BG
 * 🌱 **Currently learning:** Java Fundamentals, Frameworks and APIs
 * 🥅 **2026 Goal:** Bridge the gap between robust software engineering and AI-driven solutions.
 * ⚡ **Hobbies:** Skiing ⛷️, Fitness 🏋️‍♂️, and Outdoor adventures 🌲
