@@ -55,10 +55,10 @@ I am a passionate Software Engineer building a strong foundation in systems and 
 
 ## ⚡ Currently Building
 
-### 🤖 **jjj**
+### 🤖 **[Food Analyzer](https://github.com/aGatovski/java_course_2025_fmi/blob/main/java-project/README.md)**
 > **
-* **Goal:** 
-* **Stack:** 
-* **Status:** 
+* **Goal:** To develop a multithreaded Java client‑server application that retrieves, caches, and displays nutritional information about food products using the USDA FoodData Central API, enabling users to easily search foods, view detailed reports, and identify items by barcode.
+* **Stack:** Java
+* **Status:** In progress
 
 ### 📦 **jjjj**
