@@ -219,10 +219,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.3343543644415" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="270.3343543644415" y="0" width="163.81516404477608" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="434.1495184092176" y="0" width="21.38244412987089" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.53196253908845" y="0" width="4.46803746091157" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.25294224250047" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="270.25294224250047" y="0" width="163.76583054388846" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="434.0187727863889" y="0" width="21.376004733172717" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.39477751956167" y="0" width="4.605222480438352" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -234,7 +234,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>58.77%</div>
+                                <div>58.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,7 +258,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>35.61%</div>
+                                <div>35.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,7 +269,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>0.97%</div>
+                                <div>1%</div>
                             </small>
                         </div>
                     </section>
@@ -277,7 +277,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2026, 05:02:52 (timezone Europe/Sofia) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2026, 05:10:33 (timezone Europe/Sofia) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
