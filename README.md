@@ -37,9 +37,7 @@ I am a passionate Software Engineer building a strong foundation in systems and 
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Cursor AI" width="26px" src="https://cdn.simpleicons.org/cursor/000000" style="padding-right:10px;" />
 <img align="left" alt="Cline" width="26px" src="https://cdn.simpleicons.org/robotframework/00C0B5" style="padding-right:10px;" />
-<img align="left" alt="Microsoft Copilot" width="26px" src="https://cdn.simpleicons.org/githubcopilot/8000FF" style="padding-right:10px;" />
 <img align="left" alt="SAP ABAP" width="26px" src="https://cdn.simpleicons.org/sap/008FD3" style="padding-right:10px;" />
 <br />
 
