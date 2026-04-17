@@ -61,4 +61,8 @@ I am a passionate Software Engineer building a strong foundation in systems and 
 * **Stack:** Java
 * **Status:** In progress
 
-### 📦 **jjjj**
+### 💰 **Expense Tracker**
+> **
+* **Goal:** To build an expense tracking application that allows users to import transaction histories from bank applications such as Revolut and DSK Bank, analyze income and expenses, and generate clear monthly summaries. The system helps users filter and sort transactions by month and category, calculate net balance, and identify spending patterns to better understand where their money goes.
+* **Stack:** Python, FastAPI
+* **Status:** Done
