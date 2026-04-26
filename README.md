@@ -3,7 +3,7 @@
 # Hello I'm Antonio 👋
 
 ### 🚀 Software Engineer 
-**Current Status:** Interning at SAP Labs Bulgaria 🇧🇬
+**Current Status:** Backend developer at SAP Labs Bulgaria 🇧🇬
 
 I turn coffee into code and ideas into reality. Buckle up and enjoy the ride!* 🎢✨
 
