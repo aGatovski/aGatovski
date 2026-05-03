@@ -55,7 +55,7 @@ Software Engineer with a focus on backend systems and applied AI. I work on ente
 
 ## 🚀 Featured Projects
 
-### 💸 [BudgetApp](https://github.com/aGatovski)
+### 💸 [BudgetApp](https://github.com/aGatovski/Python/blob/main/BudgetApp/README.md)
 An AI-powered personal finance backend with a self-improving ML pipeline and an agentic chat interface.
 
 * **Two-tier transaction classifier:** sentence-embedding model (all-MiniLM-L6-v2) + logistic regression for high-confidence predictions, with automatic Gemini LLM fallback — LLM outputs are written back to the DB to retrain the classifier over time
