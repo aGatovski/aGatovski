@@ -63,8 +63,12 @@ An AI-powered personal finance backend with a self-improving ML pipeline and an 
 * **RAG-style context builder:** aggregates spending trends, budgets, and savings goals into a structured prompt so all LLM responses are grounded in deterministic data
 * 🛠️ `Python` `FastAPI` `PostgreSQL` `Gemini API` `Sentence Transformers` `Scikit-learn`
 
-### 🤖 [Food Analyzer](https://github.com/aGatovski/java_course_2025_fmi/blob/main/java-project/README.md)
-Multithreaded Java client-server application that retrieves, caches, and displays nutritional data via the USDA FoodData Central API. Supports food search, detailed reports, and barcode lookup.
+### 🎙️ [Slavic Language Identification](https://github.com/aGatovski/slavic-lid)
+A systematic deep learning study of automatic spoken language identification across 8 Slavic languages, evaluated at three tiers of model capacity.
 
-* 🛠️ `Java`
-* 🔧 *In progress*
+* **Three-tier progression:** shallow CNN on log-Mel spectrograms → Transformer encoder with AAM-Softmax → fine-tuned XLS-R-300M, evaluated against parallel CE-baseline and MFCC-feature tracks
+* **Best system (Whisper-small fine-tune):** macro-F1 = 0.795 in-domain (MCV, 107k samples) and 0.817 OOD (FLEURS, 6k samples)
+* **Core research question:** does metric-learning loss (ArcFace/AAM-Softmax) consistently beat plain cross-entropy as model capacity scales?
+* 🛠️ `Python` `PyTorch` `HuggingFace` `XLS-R` `Whisper` `Google Colab` `Kaggle` 
+* 📄 *Academic paper — FMI Sofia University*
+
