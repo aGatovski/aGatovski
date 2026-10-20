@@ -15,7 +15,7 @@ Building production systems by day, training models by night.
 
 Software Engineer with a focus on backend systems and applied AI. I work on enterprise-scale software at SAP while building AI-powered projects on the side — from LLM-integrated financial assistants to hackathon-winning language games. Currently deepening my knowledge in machine learning and agentic AI systems.
 
-* 🔭 **Currently working on:** BudgetApp — an AI-powered personal finance assistant with an agentic chat interface and a self-improving ML transaction classifier
+* 🔭 **Currently working on:** finance-agent — a full-stack agentic finance assistant with a LangGraph-powered chat backend, semantic RAG transaction retrieval, and an ML ingest pipeline
 * 🌱 **Currently learning:** PyTorch, deep learning fundamentals, agentic AI patterns
 * 🥅 **2026 Goal:** Ship production-ready AI systems and land a role at the intersection of backend engineering and applied ML
 * ⚡ **Hobbies:** Skiing ⛷️, Fitness 🏋️‍♂️, Outdoor adventures 🌲
@@ -57,13 +57,14 @@ Software Engineer with a focus on backend systems and applied AI. I work on ente
 
 ## 🚀 Featured Projects
 
-### 💸 [BudgetApp](https://github.com/aGatovski/Python/blob/main/BudgetApp/README.md)
-An AI-powered personal finance backend with a self-improving ML pipeline and an agentic chat interface.
+### 💸 [finance-agent](https://github.com/aGatovski/Python/tree/main/finance-agent)
+A full-stack agentic personal finance assistant with a LangGraph-powered chat backend, semantic RAG retrieval, and an ML ingest pipeline.
 
-* **Two-tier transaction classifier:** sentence-embedding model (all-MiniLM-L6-v2) + logistic regression for high-confidence predictions, with automatic Gemini LLM fallback — LLM outputs are written back to the DB to retrain the classifier over time
-* **Agentic chat assistant:** Gemini function-calling lets the model autonomously execute financial actions (e.g. create budgets) from natural language
-* **RAG-style context builder:** aggregates spending trends, budgets, and savings goals into a structured prompt so all LLM responses are grounded in deterministic data
-* 🛠️ `Python` `FastAPI` `PostgreSQL` `Gemini API` `Sentence Transformers` `Scikit-learn`
+* **LangGraph agent:** multi-step reasoning loop with tool-calling for budgets, goals, and spending queries — the agent plans, retrieves context, and executes actions from natural language
+* **RAG transaction retrieval:** transactions are embedded with sentence-transformers and stored in pgvector; the agent retrieves semantically relevant history to ground every response in real data
+* **ML ingest pipeline:** CSV normalization → merchant extraction → embedding-based category classifier with LLM fallback; classified outputs are written back to retrain the classifier over time
+* **Full-stack:** React + TypeScript frontend with pages for dashboard, transactions, budgets, goals, merchants, and chat; Dockerized for local dev
+* 🛠️ `Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `Sentence Transformers` `React` `TypeScript` `Docker`
 
 ### 🎙️ [Slavic Language Identification](https://github.com/aGatovski/slavic-lid)
 A systematic deep learning study of automatic spoken language identification across 8 Slavic languages, evaluated at three tiers of model capacity.
@@ -73,4 +74,3 @@ A systematic deep learning study of automatic spoken language identification acr
 * **Core research question:** does metric-learning loss (ArcFace/AAM-Softmax) consistently beat plain cross-entropy as model capacity scales?
 * 🛠️ `Python` `PyTorch` `HuggingFace` `XLS-R` `Whisper` `Google Colab` `Kaggle` 
 * 📄 *Academic paper — FMI Sofia University*
-
