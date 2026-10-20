@@ -52,6 +52,8 @@ Software Engineer with a focus on backend systems and applied AI. I work on ente
 | :--- | :--- | :--- | :--- |
 | **Alingo 👽** | *FMI{Codes}* | A sci-fi linguistic puzzle game where players translate alien languages to save a spaceship. <br> 🛠️ `Python` `AI/LLMs` `TypeScript` `Next.js` | 🥈 **2nd Place** |
 | **CIX 🎮** | *Crossroads AI Hackathon (150+ participants)* | AI-powered word puzzle game where players solve interconnected word chains through linguistic relationships. Features GPT-4 dynamic puzzle generation, neural network-style BFS validation, real-time feedback, and CEFR multi-language support (A1–C1). <br> 🛠️ `Python` `FastAPI` `OpenAI` `TypeScript` `Next.js` | 🥇 **1st Place** |
+| **AI Code Camp 🤖** | *SAP AI Code Camp — SAP Labs Bulgaria (1st ever run)* | Multi-agent orchestrator that turns a raw business requirement into a review-ready solution-design package — intake, clarify, ground against real codebase & standards, then map cross-team dependencies. Human-in-the-loop at every checkpoint. <br> 🛠️ `Python` `Multi-Agent AI` `LLMs` | 🥉 **3rd Place** · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7507152766050463744/) |
+
 
 ---
 
