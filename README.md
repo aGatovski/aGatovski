@@ -59,7 +59,8 @@ Software Engineer with a focus on backend systems and applied AI. I work on ente
 
 ## 🚀 Featured Projects
 
-### 💸 [finance-agent](https://github.com/aGatovski/Python/tree/main/finance-agent)
+### 💸 [finance-agent](https://github.com/aGatovski/finance-agent)
+
 A full-stack agentic personal finance assistant with a LangGraph-powered chat backend, semantic RAG retrieval, and an ML ingest pipeline.
 
 * **LangGraph agent:** multi-step reasoning loop with tool-calling for budgets, goals, and spending queries — the agent plans, retrieves context, and executes actions from natural language
